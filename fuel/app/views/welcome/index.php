@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>FuelPHP Framework</title>
+	<title>ssFramework TEST - FuelPHP Framework</title>
 	<?php echo Asset::css('bootstrap.css'); ?>
 	<style>
 		#logo{
@@ -43,8 +43,8 @@
 		</div>
 		<div class="row">
 			<div class="col-md-4">
-				<h2>Get Started</h2>
-				<p>The controller generating this page is found at <code>APPPATH/classes/controller/welcome.php</code>.</p>
+				<h2>Get Started STUSTUS TEST ETST </h2>
+				<p>The controll -- STUSTUSTUS TESTETSTETETSTSSTET  er generating this page is found at <code>APPPATH/classes/controller/welcome.php</code>.</p>
 				<p>This view can be found at <code>APPPATH/views/welcome/index.php</code>.</p>
 				<p>You can modify these files to get your application started quickly.</p>
 			</div>
