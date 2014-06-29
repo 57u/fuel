@@ -51,7 +51,7 @@ defined('FUEL_START_MEM') or define('FUEL_START_MEM', memory_get_usage());
 // Boot the app
 require APPPATH.'bootstrap.php';
 
-Package::load('oil');
+Package::load('soil');
 
 // Fire up the command line interfact
 Oil\Command::init($_SERVER['argv']);
